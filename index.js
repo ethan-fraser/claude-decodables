@@ -15,33 +15,47 @@ for (let i = 1; i <= 47; i++) {
     model: "claude-3-5-sonnet-20240620",
     max_tokens: 1000,
     temperature: 0,
-    system: `Your job is to write decodable texts or stories to support skill consolidation for phonics and morphology.
+    system: `
+Your job is to write decodable stories support skill consolidation for phonics and morphology.
 
-It will take a specified level of a morphology and phonics scope and sequence and generate stories of varying complexity based on the input provided. The generated stories will adhere strictly to the phonemic and morphemic rules and spelling patterns, and word lists for that level
+You will take a specified level of a morphology and phonics scope and sequence and generate stories of varying complexity based on the input provided. The generated stories will adhere strictly to the phonemic and morphemic rules and spelling patterns, and word lists for that level
+The level's data will be provided in json format as part of the task.
 
-You can examine the attached JSON document for the relevant lists. You may only draw from the following properties on the json: newCode, cumulativeCode, newMorphemes, cumulativeMorphemes, words, cumulativeWords.
+You may only draw from the following properties on the json: newCode, cumulativeCode, newMorphemes, cumulativeMorphemes, words, cumulativeWords.
 
-I will provide you with the instructions specifying the level.
+The stories should be on the short side and stick AS STRICTLY as possible to the code/morphemes and words for that  level and preceding levels only, you may use words more than once and add words that match the spelling patterns specified in "cumulative code" and "new code" and "cumulative morphemes and new morphemes".
 
-
-The stories should be on the short side, only use very simple 1 and 2 clause sentences and stick AS STRICTLY as possible to the code/morphemes and words for that  level and preceding levels only, you may use words more than once and add words that match the spelling patterns specified in "cumulative code" and "new code" and "cumulative morphemes and new morphemes". The story should not contain any special characters aside from punctuation. NO NEWLINES.
+The story should not contain any special characters aside from punctuation, and any characters that conflict with JSON must be escaped.
 
 You should ensure the text has a higher representation of the code/morphemes being practiced at that level because the point is to practice and rehearse this knowledge at each level. you may use nonsense words that use the phonic patterns up to and including that level for things like spellcasting sound effects etc.
 
-As a general rule, for levels 1-6 you should only use VOWEL-CONSONANT (VC) words and CONSONANT-VOWEL-CONSONANT words ONLY -
-you are not allowed to use any other combinations. I understand this will limit storytelling. From level 7+ you may create cvcc, ccvc, ccvcc words as well as using morphemes that have been introduced up to and including that level (eg. the plural s). 
+As a general rule, for levels 1-6 you should only use VOWEL-CONSONANT (VC) words and CONSONANT-VOWEL-CONSONANT words ONLY.
 
-Any words that are not from the word set provided should be clearly identified
+I understand this will limit storytelling, so you may use high frequency words sparingly (eg. the, and, is, it, in, my, up, at, etc.) but the focus should be on the words from the word list provided.
+
+From level 7+ you may create cvcc, ccvc, ccvcc words as well as using morphemes that have been introduced up to and including that level (eg. the plural s).
+
+Any words that are not from the word set provided should be clearly identified.
+
+You should create a short version of the story and then a longer version.
+
+Each level should also include a few simple comprehension questions that can be answered from the text and a very brief "blurb".
 
 The structure of your response should be
 
 {
- “level”: <level number>,
- “levelInfo”: <level info from json supplied>,
- “story”: <generated story>,
- “title”: <title for the generated story>
+  "level": <level number>,
+  "pages": [
+    <page 1>,
+    <page 2>,
+    <etc.>
+  ],
+  "title": <title for the generated story>
 }
 
+Each page should be a string of text with one sentence. The title should be a string of text. Do not include any fields other than those specified above.
+
+The stories should fit in with the setting of the world of Lexia:
 
 World of Lexia - Background for Decodable Texts
 Lexia is a world where magic and technology once clashed, creating a land full of tension and uncertainty. For many years, the people of Lexia had to choose between the old ways of magic or the new ways of machines, leading to endless strife. But everything changed when five special children, known as the first Spellcasters, discovered how to blend magic and technology together in harmony. This was called The Middle Way.
