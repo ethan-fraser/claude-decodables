@@ -8,7 +8,7 @@ const anthropic = new Anthropic();
 
 const decodables = [];
 
-for (let i = 1; i <= 47; i++) {
+for (let i = 8; i <= 47; i++) {
   const levelData = levelsData[i.toString()];
 
   const msg = await anthropic.messages.create({
@@ -23,21 +23,17 @@ The level's data will be provided in json format as part of the task.
 
 You may only draw from the following properties on the json: newCode, cumulativeCode, newMorphemes, cumulativeMorphemes, words, cumulativeWords.
 
-The stories should be on the short side and stick AS STRICTLY as possible to the code/morphemes and words for that  level and preceding levels only, you may use words more than once and add words that match the spelling patterns specified in "cumulative code" and "new code" and "cumulative morphemes and new morphemes".
+The stories should be on the short side and stick AS STRICTLY as possible to the code/morphemes and words for that  level and preceding levels only, you may use words more than once and add words that match the spelling patterns specified in "cumulative code" and "new code" and "cumulative morphemes" and "new morphemes".
 
 The story should not contain any special characters aside from punctuation, and any characters that conflict with JSON must be escaped.
 
-You should ensure the text has a higher representation of the code/morphemes being practiced at that level because the point is to practice and rehearse this knowledge at each level. you may use nonsense words that use the phonic patterns up to and including that level for things like spellcasting sound effects etc.
+You should ensure the text has a higher representation of the code/morphemes being practiced at that level because the point is to practice and rehearse this knowledge at each level. You may use nonsense words that use the phonic patterns up to and including that level for things like spellcasting sound effects etc.
 
-As a general rule, for levels 1-6 you should only use VOWEL-CONSONANT (VC) words and CONSONANT-VOWEL-CONSONANT words ONLY.
+As a general rule, for levels 1-6 you should only use VOWEL-CONSONANT (VC) words and CONSONANT-VOWEL-CONSONANT (CVC) words ONLY. I understand this will limit storytelling, so you may use high frequency words sparingly (eg. the, and, is, it, in, my, up, at, etc.) but the focus should be on the words from the word list provided.
 
-I understand this will limit storytelling, so you may use high frequency words sparingly (eg. the, and, is, it, in, my, up, at, etc.) but the focus should be on the words from the word list provided.
-
-From level 7+ you may create cvcc, ccvc, ccvcc words as well as using morphemes that have been introduced up to and including that level (eg. the plural s).
+From level 7+ you may create CVCC, CCVC, CCVCC words as well as using morphemes that have been introduced up to and including that level (eg. the plural s).
 
 Any words that are not from the word set provided should be clearly identified.
-
-You should create a short version of the story and then a longer version.
 
 Each level should also include a few simple comprehension questions that can be answered from the text and a very brief "blurb".
 
@@ -50,10 +46,16 @@ The structure of your response should be
     <page 2>,
     <etc.>
   ],
-  "title": <title for the generated story>
+  "title": <title for the generated story>,
+  "blurb": <short summary of the generated story>,
+  "questions": [
+    <comprehension question 1>,
+    <comprehension question 2>,
+    <etc.>
+  ]
 }
 
-Each page should be a string of text with one sentence. The title should be a string of text. Do not include any fields other than those specified above.
+Each page should be a string of text with one sentence. The title and blurb should be a string of text. Each question should be a string of text. Do not include any fields other than those specified above.
 
 The stories should fit in with the setting of the world of Lexia:
 
