@@ -81,9 +81,8 @@ Now, new generations of Spellcasters must train under these Wardens to master th
     const json = JSON.parse(story);
     console.log(json);
     decodables.push(json);
+    fs.writeFileSync("decodables.json", JSON.stringify(decodables, null, 2));
   } catch (e) {
     console.error("Error parsing JSON", e);
   }
 }
-
-fs.writeFileSync("decodables.json", JSON.stringify(decodables, null, 2));

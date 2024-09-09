@@ -1,0 +1,782 @@
+[
+  {
+    "level": 8,
+    "pages": [
+      "Yap yaps at the fox.",
+      "The fox sits in a box.",
+      "Yap zips to the box.",
+      "The fox mix six nuts.",
+      "Yap yaps and yaps at the fox.",
+      "The fox fix the box lid.",
+      "Yap sips from a cup.",
+      "The fox zips out of the box.",
+      "Yap and the fox mix nuts in the box.",
+      "Yes, Yap and the fox are pals."
+    ],
+    "title": "Yap and the Fox",
+    "blurb": "A fun tale of a dog named Yap and a clever fox who become unlikely friends in the magical world of Lexia.",
+    "questions": [
+      "Who is Yap?",
+      "Where does the fox sit?",
+      "What does the fox mix?",
+      "How many nuts does the fox mix?",
+      "Do Yap and the fox become friends at the end?"
+    ]
+  },
+  {
+    "level": 9,
+    "pages": [
+      "Max the fox sits in his box.",
+      "He has six mix tapes in the box.",
+      "Max fixes the tapes and zips them up.",
+      "The fox boxes the tapes for his pals.",
+      "Max's pals are Jax and Rex.",
+      "Jax and Rex like to fix mix tapes too.",
+      "The three foxes mix and fix tapes all day.",
+      "At six, Max zips up his last box.",
+      "He yells, \"Foxes, let's jog to the den!\"",
+      "The foxes run and have fun with their mix tapes."
+    ],
+    "title": "Max the Fox and His Mix Tapes",
+    "blurb": "Max the fox and his friends Jax and Rex spend their day fixing mix tapes in the magical realm of Lexia, combining their love for music with their Spellcaster abilities.",
+    "questions": [
+      "What does Max keep in his box?",
+      "Who are Max's pals?",
+      "What do the foxes do all day?",
+      "What time does Max finish his last box?",
+      "Where do the foxes go at the end of the story?"
+    ]
+  },
+  {
+    "level": 10,
+    "pages": [
+      "Frog and Slug plan to swim in the pond.",
+      "Frog slips and flips into the slum.",
+      "Slug is glum and drags Frog from the muck.",
+      "They spot a plum tree and stop to rest.",
+      "Frog brags, \"I can swim fast in that spot!\"",
+      "Slug says, \"Let's skip the swim and trim twigs.\"",
+      "They clip twigs and make a slim raft.",
+      "The raft slams into a crag with a big smack.",
+      "Frog and Slug drop into the pond with a splash.",
+      "In the end, they swim and have fun."
+    ],
+    "title": "Frog and Slug's Pond Adventure",
+    "blurb": "Frog and Slug embark on a pond adventure, facing challenges and working together to have fun.",
+    "questions": [
+      "What did Frog and Slug plan to do at the pond?",
+      "What did Frog and Slug make with the twigs?",
+      "How did Frog and Slug end up in the pond?"
+    ]
+  },
+  {
+    "level": 11,
+    "pages": [
+      "The sand was dank in the land.",
+      "A tank sank in the wet sand.",
+      "The band must rest on the land.",
+      "They bent to get the best spot.",
+      "Rust can bust a good tank.",
+      "The band sent a man to rent a van.",
+      "Just then, the sun set on the land."
+    ],
+    "title": "The Sinking Tank",
+    "blurb": "A magical band encounters a sinking tank in a dank land, leading to an unexpected adventure.",
+    "questions": [
+      "What sank in the wet sand?",
+      "What did the band need to do on the land?",
+      "What can bust a good tank?",
+      "What did the band send a man to rent?"
+    ]
+  },
+  {
+    "level": 12,
+    "pages": [
+      "The crisp wind blew as Warden Snowdrift led the sprint across the snowy land.",
+      "Her clasp on the ancient book was firm as they ran from the dark scum.",
+      "The crust of ice made it hard to grasp the ground, but they must not slip.",
+      "A smart plan was needed to drift past the scrum of foes.",
+      "They had to be quick to print the draft of the spell on the frost.",
+      "The graft of magic and tech would help them scrub away the rust of old ways.",
+      "With a final burst, they ran up the crag to escape the scam below.",
+      "At last, they could rest and scan the realm from the crisp, snowy peak."
+    ],
+    "title": "The Frosty Sprint",
+    "blurb": "Warden Snowdrift leads a daring escape through her icy realm, carrying an ancient book of magic and technology.",
+    "questions": [
+      "Who was leading the sprint?",
+      "What was Warden Snowdrift holding onto firmly?",
+      "What made it difficult to grasp the ground?",
+      "What did they need to print on the frost?",
+      "Where did they end up at the end of their sprint?"
+    ]
+  },
+  {
+    "level": 13,
+    "pages": [
+      "Warden Springtide is running in the Spring Forest Realm.",
+      "She is jumping over logs and skipping past flowers.",
+      "The Warden is stopping to help a young Spellcaster.",
+      "The Spellcaster is sitting on a stump, looking sad.",
+      "\"Why are you not running and jumping?\" asks Warden Springtide.",
+      "The Spellcaster says, \"I am resting because I am feeling glum.\"",
+      "Warden Springtide sits next to the Spellcaster, patting the stump.",
+      "\"Let's fix that,\" she says, \"Magic can help when we are feeling down.\"",
+      "The Warden starts humming, her staff glowing with magic.",
+      "Suddenly, flowers start popping up, blooming all around them.",
+      "The Spellcaster grins, standing up and looking at the colorful blooms.",
+      "\"Thank you,\" says the Spellcaster, \"I am feeling better now.\"",
+      "Warden Springtide smiles, \"Running, jumping, and casting spells can lift our spirits.\"",
+      "The Spellcaster nods, \"Yes, I will keep practicing my magic and running in the realm.\"",
+      "Together, they start jogging down the path, laughing and casting spells."
+    ],
+    "title": "Running and Jumping with Warden Springtide",
+    "blurb": "A young Spellcaster learns the joy of running, jumping, and casting spells with Warden Springtide in the Spring Forest Realm.",
+    "questions": [
+      "What is Warden Springtide doing at the beginning of the story?",
+      "How is the Spellcaster feeling when Warden Springtide finds them?",
+      "What does Warden Springtide do to help the Spellcaster feel better?",
+      "What do Warden Springtide and the Spellcaster do at the end of the story?"
+    ]
+  },
+  {
+    "level": 14,
+    "pages": [
+      "The ship sails in the thick mist.",
+      "A fish jumps with a splash and a thud.",
+      "The cat licks its paw and sits in the sun.",
+      "A thin man picks up a stick from the sand.",
+      "The dog digs in the shed and finds a backpack.",
+      "The shop shuts down with a click of the lock.",
+      "A shellfish hides in the rock with a dash.",
+      "The child takes a bath in the bathtub.",
+      "A sunfish swims past the ship in a flash.",
+      "The thicket is full of bugs that buzz and hum."
+    ],
+    "title": "The Ship and the Shellfish",
+    "blurb": "A magical journey through the realm of Lexia, where a ship encounters various creatures and objects, blending the wonders of nature with the enchantment of spellcasting.",
+    "questions": [
+      "What jumps with a splash and a thud?",
+      "Where does the dog find a backpack?",
+      "What kind of fish swims past the ship?",
+      "Where does the shellfish hide?"
+    ]
+  },
+  {
+    "level": 15,
+    "pages": [
+      "The quick king had a whim to bring his ring to the wing.",
+      "He did not quit, but ran with a whisk and a whip in hand.",
+      "The king sang as he ran, \"Quack, quack, quick!\"",
+      "Which wing did the king pick? The one with the thick quilt.",
+      "The king's whimper was soft as he sat on the quilt.",
+      "\"I will not squander this thing,\" the king said with a sigh.",
+      "He put the ring on his thumb and gave it a quick rub.",
+      "The king's whiskers twitched as he felt a tug.",
+      "With a wham and a whack, the ring began to sing!",
+      "The king's eyes got big as he saw the ring glow and spin."
+    ],
+    "title": "The King's Singing Ring",
+    "blurb": "A quick-thinking king brings his magical ring to a special wing, where he discovers its hidden power.",
+    "questions": [
+      "What did the king bring to the wing?",
+      "What sound did the king make as he ran?",
+      "Where did the king put the ring?",
+      "What happened when the king rubbed the ring?"
+    ]
+  },
+  {
+    "level": 16,
+    "pages": [
+      "Chip the chicken likes to munch on chips in the kitchen.",
+      "He catches a chip and crunches it with a loud crunch.",
+      "His chick pals watch him chop and munch on the snack.",
+      "Chip drops a chip, and it lands with a plop on his lap.",
+      "He picks it up and puts it in the trash can with a clatch.",
+      "Chip's mom tells him to switch to a healthier lunch.",
+      "She hands him a sandwich and some ketchup on the side.",
+      "Chip takes a big bite and says, \"This is rich!\"",
+      "His mom smiles and pats him on the back.",
+      "Chip decides to ditch the chips and stick with sandwiches."
+    ],
+    "title": "Chip's Crunchy Kitchen Adventure",
+    "blurb": "Chip the chicken learns to switch from chips to a healthier lunch in this fun kitchen tale.",
+    "questions": [
+      "What does Chip like to munch on in the kitchen?",
+      "What does Chip's mom give him instead of chips?",
+      "How does Chip describe the sandwich?"
+    ]
+  },
+  {
+    "level": 17,
+    "pages": [
+      "Tim and Sam sat on a log.",
+      "Tim said, \"I wish we had a map.\"",
+      "Sam picked up a stick and scratched in the sand.",
+      "\"Look,\" Sam said, \"I mapped our spot.\"",
+      "Tim grinned and patted Sam on the back.",
+      "\"You fixed it!\" Tim exclaimed.",
+      "Sam nodded and added more to the map.",
+      "They marked where they camped and hiked.",
+      "The sun set as they finished the map.",
+      "Tim and Sam packed up and headed back to camp."
+    ],
+    "title": "The Campsite Map",
+    "blurb": "Two friends create a map of their campsite using their surroundings.",
+    "questions": [
+      "What did Sam use to make the map?",
+      "Where did Tim and Sam sit?",
+      "What did Tim and Sam mark on their map?",
+      "What time of day was it when they finished the map?"
+    ]
+  },
+  {
+    "level": 18,
+    "pages": [
+      "The witch had a plan to quicken her magic.",
+      "She must thicken her potion to make it strong.",
+      "With a whisk, she began to mix the thick liquid.",
+      "She added bits of fish to lengthen the spell.",
+      "The witch hoped to blacken the pot with smoke.",
+      "She wanted to frighten the chicken in the pen.",
+      "The witch did not wish to soften her heart.",
+      "She cast the spell to darken the sky.",
+      "Thunder began to threaten the land.",
+      "But a young spellcaster rushed to stop the witch."
+    ],
+    "title": "The Witch's Spell",
+    "blurb": "A witch attempts to cast a powerful spell using the '-en' suffix, but a young spellcaster intervenes.",
+    "questions": [
+      "What did the witch use to mix her potion?",
+      "What animal did the witch want to frighten?",
+      "Who rushed to stop the witch at the end?"
+    ]
+  },
+  {
+    "level": 19,
+    "pages": [
+      "The runner runs fast in the park.",
+      "A swimmer swims in the big pond.",
+      "The singer sings a song for the crowd.",
+      "A helper helps the Warden fix a book.",
+      "The teacher teaches magic to young spellcasters.",
+      "A farmer farms crops in the Spring Forest Realm.",
+      "The baker bakes fresh bread for the town.",
+      "A painter paints a picture of the snowy mountains.",
+      "The writer writes stories about Lexia's realms.",
+      "A builder builds new homes for spellcasters."
+    ],
+    "title": "The Helpers of Lexia",
+    "blurb": "Discover the various jobs in the magical world of Lexia, where people use their skills to help others and maintain balance between magic and technology.",
+    "questions": [
+      "What does the runner do in the park?",
+      "Where does the swimmer swim?",
+      "Who does the teacher teach magic to?",
+      "In which realm does the farmer farm crops?",
+      "What does the painter paint a picture of?"
+    ]
+  },
+  {
+    "level": 20,
+    "pages": [
+      "Tim and Sam sat on a log in the thick forest of Lexia.",
+      "They had a plan to catch a magic fish in the big pond.",
+      "Tim got his rod and Sam got the net to trap the fish.",
+      "As they sat, Tim felt a tug on his rod.",
+      "\"I got it!\" Tim yelled, as he began to reel it in.",
+      "But the fish was strong and pulled Tim into the pond.",
+      "Sam grabbed Tim's leg, but slipped and fell in too.",
+      "They splashed and thrashed in the cold water.",
+      "Suddenly, the magic fish popped up and said, \"Why do you wish to catch me?\"",
+      "Tim and Sam were shocked that the fish could talk.",
+      "\"We wanted to learn magic,\" Tim admitted, feeling bad.",
+      "The fish smiled and said, \"Magic is not about catching, but about helping.\"",
+      "Tim and Sam nodded, understanding the lesson.",
+      "The fish then cast a spell, drying their wet clothes.",
+      "From that day on, Tim and Sam helped the fish protect the pond."
+    ],
+    "title": "The Magical Pond Lesson",
+    "blurb": "Two young spellcasters learn an important lesson about magic from a talking fish in a Lexian forest pond.",
+    "questions": [
+      "Where did Tim and Sam sit at the beginning of the story?",
+      "What did Tim and Sam want to catch?",
+      "What happened when Tim felt a tug on his rod?",
+      "What did the magic fish teach Tim and Sam?",
+      "How did the fish help Tim and Sam at the end of the story?"
+    ]
+  },
+  {
+    "level": 21,
+    "pages": [
+      "Jill and Bill sell stuff at the mall.",
+      "They have a small stall full of fluff and puff.",
+      "Jill sells soft muffins with a kiss.",
+      "Bill sells balloons that hiss when they miss the air.",
+      "A gruff man in a stiff hat stops to fuss.",
+      "He tells them to sell him a coffee mug.",
+      "Jill and Bill fill the mug with hot coffee.",
+      "The man takes a sip and his frown falls off.",
+      "He says, \"I will not toss this mug, it's the best!\"",
+      "Jill and Bill grin and tell him to come back soon."
+    ],
+    "title": "The Fluff and Puff Stall",
+    "blurb": "Jill and Bill run a quirky stall at the mall, selling an assortment of fluffy items and tasty treats. When a grumpy customer arrives, they manage to turn his mood around with their excellent service.",
+    "questions": [
+      "What do Jill and Bill sell at their stall?",
+      "How does the gruff man's mood change by the end of the story?",
+      "What happens to the balloons when they miss the air?"
+    ]
+  },
+  {
+    "level": 22,
+    "pages": [
+      "In the middle of Lexia, there was a little apple orchard.",
+      "The apples were ripe and red, but a puzzle needed to be solved to pick them.",
+      "A young Spellcaster named Fizz came to the orchard with her pet frog.",
+      "Fizz had to sizzle her wand and make it buzz to unlock the puzzle.",
+      "She waved her wand, and it went 'zzzzzz' like a bee.",
+      "The puzzle opened with a dazzle, and apples fell into her bottle.",
+      "Fizz's frog let out a happy 'ribbit' and hopped to catch a falling apple.",
+      "But the frog missed, and the apple hit him on his little green head.",
+      "Fizz giggled and picked up her frog, giving him a gentle pat.",
+      "They sat in the middle of the orchard, munching on crisp apples.",
+      "Fizz decided to make apple juice and pickle some apples for later.",
+      "As the sun set, Fizz and her frog headed home with a bottle full of apples.",
+      "They were happy to have solved the puzzle and gotten such a yummy treat."
+    ],
+    "title": "Fizz's Apple Puzzle Adventure",
+    "blurb": "A young Spellcaster named Fizz solves a magical puzzle in an apple orchard with her pet frog, learning new spells and enjoying the fruits of her labor.",
+    "questions": [
+      "Where did Fizz go to pick apples?",
+      "What sound did Fizz's wand make to unlock the puzzle?",
+      "What happened when Fizz's frog tried to catch an apple?",
+      "What did Fizz decide to make with the apples?"
+    ]
+  },
+  {
+    "level": 23,
+    "pages": [
+      "The little puffs buzz and fuss in the middle of the room.",
+      "They toss and miss as they try to catch the small bugs.",
+      "The bugs zip and zap around, making the puffs hiss.",
+      "One puff gets gruff and yells, \"Let's stuff them in a bottle!\"",
+      "Another puff says, \"No, let's address this puzzle with a plan.\"",
+      "They huddle and whisper, then spread out to trap the bugs.",
+      "The bugs fizz and fuzz, but the puffs don't miss this time.",
+      "With a quick switch, they catch all the bugs in a net.",
+      "The puffs cheer and sing, \"We did it! No more buzzes!\"",
+      "They put the bugs in a jar and rest, feeling smart and proud."
+    ],
+    "title": "The Puffs and the Buzzing Bugs",
+    "blurb": "A group of magical puffs work together to catch some pesky buzzing bugs in this exciting adventure.",
+    "questions": [
+      "What were the puffs trying to catch?",
+      "What did one puff suggest they use to catch the bugs?",
+      "How did the puffs finally catch the bugs?",
+      "How did the puffs feel at the end of the story?"
+    ]
+  },
+  {
+    "level": 24,
+    "pages": [
+      "The Warden of the Spring Forest Realm had a task for the young Spellcaster.",
+      "\"You must rewrite this spell in the ancient book,\" said the Warden.",
+      "The Spellcaster sat at the desk and began to write.",
+      "But the ink was thin and did not show up well on the page.",
+      "\"I must remix the ink,\" thought the Spellcaster.",
+      "He got up to refill his inkwell with a thicker mix.",
+      "As he sat back down, he accidentally knocked over the inkwell.",
+      "\"Oh no!\" he cried, \"I must reclean the desk!\"",
+      "After cleaning, he had to rewrite the entire spell again.",
+      "The Warden smiled and said, \"Well done! You have learned to persist and redo tasks when needed.\""
+    ],
+    "title": "The Persistent Spellcaster",
+    "blurb": "A young Spellcaster learns the importance of perseverance while completing a task for the Warden of the Spring Forest Realm.",
+    "questions": [
+      "What was the Spellcaster's task?",
+      "Why did the Spellcaster need to remix the ink?",
+      "What happened when the Spellcaster sat back down at the desk?",
+      "What lesson did the Spellcaster learn from this experience?"
+    ]
+  },
+  {
+    "level": 25,
+    "pages": [
+      "The sun was hot as Zack and his cat sat on the mat.",
+      "Zack was unhappy because his cat was unfriendly that day.",
+      "He tried to pet the cat, but it was unwilling to let him.",
+      "The cat was unlike its usual self, acting uninterested in Zack.",
+      "Zack felt unwell and unsure about what to do.",
+      "He decided to unlock the puzzle box he got from Warden Springtide.",
+      "The box was unlike any he had seen before, with unusual patterns.",
+      "As he opened it, a soft light unfolded from within.",
+      "The light touched the cat, and it became friendly again.",
+      "Zack was no longer unhappy, and he hugged his cat with joy."
+    ],
+    "title": "Zack's Unusual Day",
+    "blurb": "Zack faces an unfriendly cat and discovers a magical solution from Warden Springtide's puzzle box.",
+    "questions": [
+      "Why was Zack unhappy at the beginning of the story?",
+      "What did Zack decide to do when he felt unsure?",
+      "How did the puzzle box help Zack and his cat?"
+    ]
+  },
+  {
+    "level": 26,
+    "pages": [
+      "Warden Snowdrift had a mishap in the Snow Realm.",
+      "He misplaced his magic staff and couldn't find it.",
+      "The Warden mistook a thin twig for his staff.",
+      "He tried to cast a spell, but it didn't work.",
+      "Snowdrift felt miserable and sat on a log.",
+      "A young Spellcaster saw the sad Warden.",
+      "The child asked, \"Did you misplace something?\"",
+      "Snowdrift nodded and told her about his staff.",
+      "The Spellcaster said, \"Let's not misjudge the situation.\"",
+      "They looked again and found the staff in a snowdrift."
+    ],
+    "title": "Warden Snowdrift's Mishap",
+    "blurb": "Warden Snowdrift misplaces his magic staff in the Snow Realm, leading to a series of funny mistakes. With the help of a young Spellcaster, he learns not to misjudge situations and finds his staff.",
+    "questions": [
+      "What did Warden Snowdrift misplace?",
+      "What did Snowdrift mistake for his staff?",
+      "Who helped Warden Snowdrift find his staff?",
+      "Where did they finally find the staff?"
+    ]
+  },
+  {
+    "level": 27,
+    "pages": [
+      "In the Snow Realm, a young Spellcaster named Finn felt insecure about his abilities.",
+      "His mentor, Warden Snowdrift, noticed Finn's incomplete spells and inaccurate incantations.",
+      "\"Finn,\" said Snowdrift, \"your magic is not ineffective, it's just incomplete.\"",
+      "Finn replied, \"But Warden, I feel so incapable and insufficient.\"",
+      "Snowdrift smiled and said, \"Those feelings are invalid, Finn.\"",
+      "\"Let's practice together and make your spells indestructible,\" the Warden suggested.",
+      "They worked on blending magic and technology, making Finn's spells more precise.",
+      "Soon, Finn's magic became incredibly powerful, no longer incomplete or inaccurate.",
+      "Finn realized his initial doubts were inconsequential and felt a new sense of confidence.",
+      "\"Remember, Finn,\" Snowdrift said, \"being imperfect doesn't mean you're incapable.\"",
+      "Finn nodded, understanding that his journey as a Spellcaster was far from incomplete."
+    ],
+    "title": "Finn's Incomplete Incantations",
+    "blurb": "A young Spellcaster named Finn struggles with feelings of inadequacy until his mentor helps him see the value in his developing skills.",
+    "questions": [
+      "What was Finn's initial problem with his magic?",
+      "How did Warden Snowdrift help Finn?",
+      "What did Finn learn about being imperfect?",
+      "Can you identify three words in the story that use the prefix 'in-' meaning 'not'?"
+    ]
+  },
+  {
+    "level": 28,
+    "pages": [
+      "In the realm of Lexia, a young spellcaster named Tim felt impatient to learn new magic.",
+      "His mentor, Warden Snowdrift, told him, \"Tim, it is impossible to rush mastery of spells.\"",
+      "Tim was imperfect in his casting, often making immature mistakes in his haste.",
+      "\"Your impatience is impractical,\" Snowdrift said with a gentle smile.",
+      "Tim felt impolite for not listening, but he was still immensely eager to improve.",
+      "Snowdrift explained, \"The path to wisdom is often indirect and imprecise.\"",
+      "Tim realized his impatience was impersonal, affecting others in the class too.",
+      "He decided to be less impulsive and more attentive in his studies.",
+      "As Tim practiced with care, his spells became less impure and more powerful.",
+      "In time, Tim's impatience transformed into impressive skill and understanding."
+    ],
+    "title": "Tim's Impatient Path to Wisdom",
+    "blurb": "A young spellcaster learns the value of patience in mastering magic.",
+    "questions": [
+      "What was Tim's initial problem in learning magic?",
+      "Who was Tim's mentor?",
+      "What did Tim realize about his impatience?",
+      "How did Tim's approach to learning change?",
+      "What was the result of Tim's new approach to learning?"
+    ]
+  },
+  {
+    "level": 29,
+    "pages": [
+      "On a sunny day, Kai and Jay set off on their way to train as Spellcasters.",
+      "They boarded a magical train that could fly like an airplane.",
+      "The train zoomed along an invisible railway high in the sky.",
+      "Kai and Jay gazed at the plain below, their brains buzzing with excitement.",
+      "Suddenly, the train began to sway and spray sparks from its sides.",
+      "\"We must maintain control!\" shouted the conductor, looking dismayed.",
+      "Kai and Jay sprang into action, using their Spellcaster training to help.",
+      "They chanted a spell: \"Display your might, make things right!\"",
+      "Their magic helped stabilize the train, preventing a crash that would stain their day.",
+      "The conductor praised their quick thinking, \"You've saved us all, I must say!\"",
+      "As a reward, he gave them each a champion's badge to display.",
+      "Kai and Jay were thrilled - their first real test as Spellcasters, and they didn't betray their training.",
+      "They continued their journey, ready to gain more knowledge and skills in the world of Lexia."
+    ],
+    "title": "The Spellcasters' Railway Rescue",
+    "blurb": "Two young Spellcasters, Kai and Jay, embark on a magical train journey to begin their training. When the train encounters trouble, they must use their skills to save the day.",
+    "questions": [
+      "How did Kai and Jay travel to their Spellcaster training?",
+      "What problem did the train encounter during the journey?",
+      "How did Kai and Jay help solve the problem?",
+      "What reward did the conductor give Kai and Jay?"
+    ]
+  },
+  {
+    "level": 30,
+    "pages": [
+      "In the realm of Lexia, a team of Spellcasters set out on a quest to reach the sea.",
+      "They needed to steal a magical leaf from the beach to feed their weakened chief.",
+      "The team's leader, a brief but fierce eagle, led them through a field of golden wheat.",
+      "As they neared the beach, they could see three trees swaying in the breeze.",
+      "The chief's shield began to gleam, a sign that they were close to their dream.",
+      "Suddenly, a thief appeared, trying to seize their map with greed.",
+      "The Spellcasters used their wits to outsmart the thief and keep their lead.",
+      "At last, they found the magical leaf, its green sheen a sight to behold.",
+      "With the leaf in hand, they began their journey back, feeling free and bold.",
+      "The chief's strength returned, and peace was restored to the realm once more."
+    ],
+    "title": "The Quest for the Magical Leaf",
+    "blurb": "A brave team of Spellcasters embarks on a journey to find a magical leaf that will heal their weakened chief, facing challenges and a cunning thief along the way.",
+    "questions": [
+      "What was the goal of the Spellcasters' quest?",
+      "Who tried to stop the Spellcasters from completing their mission?",
+      "How many trees did the Spellcasters see near the beach?",
+      "What happened when the Spellcasters found the magical leaf?"
+    ]
+  },
+  {
+    "level": 31,
+    "pages": [
+      "The snow fell slow on the road as Joe the goat and Moe the toad set out on their journey.",
+      "They were on a quest to find the magical oak tree that grew golden oats.",
+      "As they walked, Joe wore his warm coat while Moe rode in a small boat tied to Joe's back.",
+      "The wind began to blow, making Joe groan as he trudged through the snow.",
+      "Moe tried to cheer up his friend, \"Don't be glum, Joe! We'll reach our goal soon!\"",
+      "They passed by a field where a doe grazed, her coat shimmering in the fading light.",
+      "As night fell, they found an old coach by the roadside and decided to rest.",
+      "Joe lit a fire and made some toast, while Moe found some soap to wash up.",
+      "In the morning, they woke to a beautiful sunrise painting the sky in hues of gold and rose.",
+      "They set off again, following the coast until they reached a dense forest.",
+      "Deep in the woods, they finally saw it - the magical oak tree with its golden oats!",
+      "Joe and Moe were overjoyed, knowing their long journey had not been in vain."
+    ],
+    "title": "Joe and Moe's Golden Quest",
+    "blurb": "Join Joe the goat and Moe the toad on their magical adventure to find the oak tree that grows golden oats.",
+    "questions": [
+      "What were Joe and Moe looking for on their journey?",
+      "How did Moe travel during their quest?",
+      "Where did Joe and Moe rest for the night?",
+      "What did Joe and Moe find at the end of their journey?"
+    ]
+  },
+  {
+    "level": 32,
+    "pages": [
+      "In the blue mist of Lexia, a new Spellcaster grew curious about the fruit of truth.",
+      "She pursued a clue that led her to an ancient gluepot in the misty forest.",
+      "The few who knew of this artifact believed it could subdue untrue magic.",
+      "As she drew near, she saw the gluepot was covered in mildew and looked quite old.",
+      "The Spellcaster knew she must recruit help to uncover the truth about this strange object.",
+      "She sent out a magical stew of blue light to call her friends.",
+      "Soon, the newest members of her team arrived, ready to pursue the mystery.",
+      "They studied the gluepot, looking for the tiniest clue about its powers.",
+      "One friend suggested they should sue the ancient library for more information.",
+      "Another said they might rue the day they meddled with such a powerful artifact.",
+      "In the end, they decided to be truthful and seek guidance from their Warden.",
+      "The Warden listened to their tale and nodded, \"Your pursuit of knowledge is admirable.\"",
+      "He continued, \"But remember, the truest magic comes from within, not from ancient tools.\"",
+      "The Spellcasters thanked him, realizing their true power lay in their unity and wisdom."
+    ],
+    "title": "The Truthful Pursuit of the Blue Gluepot",
+    "blurb": "A young Spellcaster and her friends embark on a quest to uncover the secrets of an ancient magical artifact, learning valuable lessons about truth and wisdom along the way.",
+    "questions": [
+      "What was the color of the mist in Lexia?",
+      "What did the Spellcaster find in the misty forest?",
+      "How did the Spellcaster call her friends?",
+      "What did the Warden say was the source of the truest magic?",
+      "What lesson did the Spellcasters learn at the end of the story?"
+    ]
+  },
+  {
+    "level": 33,
+    "pages": [
+      "High in the night sky, a bright light flies by.",
+      "It might be a spy from the Warden's watchful eye.",
+      "The light seems to sigh as it glides through the night.",
+      "Could it be shy, or just trying to hide from sight?",
+      "As it flies by, I cry out with fright.",
+      "But the light is sly and quick in its flight.",
+      "It zooms right by me, leaving a trail so bright.",
+      "I try to spy what it could be, but it's too high and out of sight.",
+      "The sky light fades, and I let out a sigh.",
+      "Was it magic or tech? I can't lie, I'd like to try and find out why.",
+      "Perhaps tomorrow night, I'll stay up and keep watch.",
+      "I might even catch a glimpse of this mysterious flying light."
+    ],
+    "title": "The Night Sky Spy",
+    "blurb": "A young spellcaster spots a mysterious flying light in the night sky and wonders about its origin and purpose.",
+    "questions": [
+      "What does the narrator see in the night sky?",
+      "How does the narrator react when the light flies by?",
+      "What does the narrator plan to do the next night?",
+      "What two things does the narrator think the light could be?"
+    ]
+  },
+  {
+    "level": 34,
+    "pages": [
+      "In the Snow Realm, Warden Snowdrift had a huge smile on his face.",
+      "He was excited to teach the young Spellcasters a new trick with magic.",
+      "\"Today, we will learn how to change words by replacing the final 'e' with another letter,\" he said.",
+      "The students gathered around, eager to see what Snowdrift would do.",
+      "He took out his wand and pointed it at a large cube of ice.",
+      "With a flick of his wrist, he changed the cube into a cub!",
+      "The little bear cub blinked and looked around, confused by its sudden appearance.",
+      "Next, Snowdrift turned to a pile of white snow.",
+      "He waved his wand again, and the snow became a snowy owl.",
+      "The owl hooted softly and flew to perch on a nearby branch.",
+      "\"Now it's your turn,\" Snowdrift said to the excited Spellcasters.",
+      "One by one, they practiced changing words by replacing the final 'e'.",
+      "They turned a huge stone into a stony path.",
+      "A lone tree became a long row of saplings.",
+      "Even a tame deer became a tamer version of itself.",
+      "The young Spellcasters were amazed at how changing one letter could create such magic.",
+      "Snowdrift beamed with pride at his students' progress.",
+      "\"Remember,\" he said, \"this skill will help you craft more powerful spells in the future.\"",
+      "As the lesson ended, the Spellcasters couldn't wait to practice more.",
+      "They knew that mastering this technique would bring them one step closer to becoming true Wardens of Lexia."
+    ],
+    "title": "The Magic of Changing Letters",
+    "blurb": "Warden Snowdrift teaches young Spellcasters how to transform words by replacing the final 'e' with another letter, creating magical changes in the Snow Realm.",
+    "questions": [
+      "What did Warden Snowdrift change the cube of ice into?",
+      "How did Snowdrift transform the pile of snow?",
+      "What did the Spellcasters turn the huge stone into?",
+      "Why did Snowdrift say this skill was important for the future?"
+    ]
+  },
+  {
+    "level": 35,
+    "pages": [
+      "In the Stone Realm, a brave Spellcaster named Jade rode her bike.",
+      "She had a mission to save the realm from an evil smoke monster.",
+      "Jade came to a dark cave where the monster hid.",
+      "She gave her bike a pat and said, \"It's time to be brave.\"",
+      "Inside the cave, Jade saw a cone of blue fire.",
+      "The smoke monster rose up, its eyes like two dimes.",
+      "Jade didn't hide or run; she stood her ground.",
+      "She took out her wand and began to chant a spell.",
+      "\"By the light of the moon and the shine of the stars, I banish you!\"",
+      "The cave filled with a bright white light.",
+      "The smoke monster let out a howl and began to fade.",
+      "Soon, all that was left was a small stone.",
+      "Jade picked up the stone and rode back home.",
+      "The people of the Stone Realm cheered for their hero.",
+      "Warden Stoneheart gave Jade a golden cape as a reward."
+    ],
+    "title": "Jade's Brave Ride",
+    "blurb": "A young Spellcaster named Jade must save the Stone Realm from a smoke monster hiding in a cave. Using her courage and magic, she faces the monster and turns it into a harmless stone.",
+    "questions": [
+      "What was the name of the Spellcaster in the story?",
+      "Where did the smoke monster hide?",
+      "What did Jade receive as a reward at the end of the story?"
+    ]
+  },
+  {
+    "level": 36,
+    "pages": [
+      "In the dune, a cute flute plays a tune.",
+      "The rune on the cube glows in the night.",
+      "These themes compute in the Warden's mind.",
+      "The Spellcaster must excuse and resume the task.",
+      "To compete, one must not abuse the magic.",
+      "The Warden will not refute the use of the tube.",
+      "In time, the cute flute's tune will subdue the foe.",
+      "The theme of the rune is to compute and pursue truth."
+    ],
+    "title": "The Dune's Magical Flute",
+    "blurb": "A young Spellcaster discovers a magical flute in the dunes of Lexia, leading to a competition of wits and magic with the Warden.",
+    "questions": [
+      "What instrument is mentioned in the story?",
+      "Where does the rune glow?",
+      "What must the Spellcaster do with the task?",
+      "What will the cute flute's tune do to the foe?",
+      "What is the theme of the rune?"
+    ]
+  },
+  {
+    "level": 37,
+    "pages": [
+      "The star shines far in the dark sky.",
+      "A smart cat sits in a red car.",
+      "Mark parks his cart in the carpark.",
+      "The jar of tar sits on the bar.",
+      "A shark swims in the harbour.",
+      "The farmer starts to harvest his crops.",
+      "The chart shows parts of the human heart.",
+      "A scar marks the bark of the palm tree.",
+      "The alarm sounds as we depart from the mart.",
+      "The charming artist paints a tart."
+    ],
+    "title": "A Starry Night in Lexia",
+    "blurb": "Join a young Spellcaster on a magical journey through Lexia as they discover the wonders of the night sky and learn about the power of the 'ar' sound in their spells.",
+    "questions": [
+      "Where does the star shine in the story?",
+      "What color is the car that the cat sits in?",
+      "What does the farmer start to harvest?",
+      "What does the chart show parts of?",
+      "What does the artist paint in the story?"
+    ]
+  },
+  {
+    "level": 38,
+    "pages": [
+      "The girl in the purple shirt was first to spot the bird.",
+      "Her stern face turned to a smile as she watched the songbird.",
+      "The bird chirped and fluttered its wings in the dirt.",
+      "The girl's birthday was on the third of the month.",
+      "She hoped to get a new skirt and perhaps a burger.",
+      "Her parents were experts at throwing perfect parties.",
+      "They would never hurt her feelings or forget her special day.",
+      "The girl's brother was a bit of a nerd with curly hair.",
+      "He liked to surf the internet and learn new words like 'adverb'.",
+      "The girl and her brother were part of a herd of kids at school.",
+      "They often burst out laughing at silly jokes during lunch.",
+      "Sometimes they would blurt out answers in class.",
+      "The girl's favorite subject was learning about verbs and terms.",
+      "She dreamed of becoming an expert in language when she grew up.",
+      "Her thirst for knowledge was strong, like a burning fire.",
+      "She hoped her birthday would bring books to help her learn more."
+    ],
+    "title": "The Girl's Birthday Bird",
+    "blurb": "A young girl spots a songbird on her birthday, sparking joy and dreams of learning.",
+    "questions": [
+      "What color was the girl's shirt?",
+      "What did the girl hope to get for her birthday?",
+      "What subject did the girl enjoy learning about?",
+      "What did the girl dream of becoming when she grew up?"
+    ]
+  },
+  {
+    "level": 39,
+    "pages": [
+      "In the port of Lexia, a short Spellcaster named Claw stood on the fort wall.",
+      "He saw a strange jaw-like ship crawling towards the shore.",
+      "Claw drew his wand to perform a spell and restore order.",
+      "\"Aw, not again!\" he said, as he saw the ship transform into a giant prawn.",
+      "The prawn's claws were as sharp as a chainsaw, and its shell was hard as stone.",
+      "Claw knew he had to act fast to protect the fort and the lawn beyond.",
+      "He cast a spell to draw the prawn back to the sea, but it didn't work.",
+      "Then he tried to sort through his spellbook for a better idea.",
+      "At last, he found a spell to shrink the prawn down to normal size.",
+      "With a flick of his wand, the giant prawn became small enough to fit in his palm.",
+      "Claw scooped up the tiny prawn and tossed it back into the sea with a chuckle.",
+      "As a reward for his quick thinking, the Warden gave Claw a shiny new saw for his workshop."
+    ],
+    "title": "Claw's Prawn Problem",
+    "blurb": "A short Spellcaster named Claw faces an unexpected challenge when a giant prawn threatens the port of Lexia. Using his wit and magic, he finds a creative solution to the problem.",
+    "questions": [
+      "Where was Claw standing at the beginning of the story?",
+      "What did the strange ship transform into?",
+      "How did Claw finally solve the problem of the giant prawn?",
+      "What reward did Claw receive from the Warden?"
+    ]
+  }
+]
